@@ -1541,7 +1541,6 @@ header{
     margin: 0;
     margin-top: 249px;
     transform: scale(0.7);
-    margin-top: -100px;
     margin-left: -75px;
   }
   .navig{
@@ -1572,7 +1571,7 @@ header{
     transform: scale(0.8);
     width: 100%;
     top: 0;
-    margin-top: 300px;
+    margin-top: 175px;
     left: 0;
   }
   .third-page{
@@ -1675,7 +1674,7 @@ header{
 .box .next2 {
   position: fixed;
   width: 100%;
-  margin-top: 300px;
+  margin-top: 175px;
   top: 1732px;
 }
 
